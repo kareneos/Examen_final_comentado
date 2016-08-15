@@ -1,0 +1,54 @@
+img{
+	width: 100%
+}
+a{
+	text-decoration: none;
+}
+.bg-white{
+	background-color: white;
+}
+.bg-blue{
+	background-color: #2D313B;
+}
+.bg-turquoise{
+	background-color: #0CC0BF;
+}
+button, input, textarea{
+	border: none;
+}
+.mg-5{
+	margin: 5% 0%;
+}
+.pb-20{
+	padding-bottom: 20%;
+}
+.pd-2{
+	padding: 2%;
+}
+a{
+	text-decoration: none;
+}
+img{
+	width: 100%;
+}
+.row{
+	margin: 0;
+}
+.bkd-1{
+	background-image: url();
+}
+.bkd-2{
+
+}
+.bkd-3{
+
+}
+.bkd-4{
+
+}
+.bkd-5{
+
+}
+.bkd-6{
+
+}

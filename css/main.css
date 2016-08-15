@@ -1,0 +1,107 @@
+.bkd-header{
+	background-image: url("../img/background/hero.jpg");
+	height: 300%;
+}
+
+.div-1{
+	background: black;
+	border: none;
+	padding: 3% 7%;
+	/*width: 50px 100px;*/
+}
+button:hover{
+	background-color: black;
+	opacity: .4;
+}
+.icon:hover, i{
+	color:#0dc0c0;
+}
+i:hover{
+	color:black;
+}
+.pd-icon{
+	position: absolute;
+	display: inline-block;
+	/*padding-right: 2%;*/
+}
+.pd-div{
+	padding: 0% 3% 5% 5%;
+}
+.bttn-wg{
+	width: 100px;
+	height: 30px;
+	background-color: white;
+	color: black;
+	border:none;
+}
+.bttn-wg:hover{
+	background-color:#0dc0c0;
+	color: white;
+}
+
+.prf-a{
+
+}
+.cj-b{
+
+}
+.bkd-1{
+	background-image: url();
+}
+.bkd-2{
+
+}
+.bkd-3{
+
+}
+.bkd-4{
+
+}
+.bkd-5{
+
+}
+.bkd-6{
+
+}
+/*PACKAGE*/
+#edificios{
+	background-image: url("../img/background/city.jpg");
+	background-size: 100% 200%;
+	background-position: top;
+}
+#calltoaction{
+	background-color: #033678;
+	padding:1.5%;
+}
+.seguido{
+	display: inline;
+}
+.linea{
+	border-bottom: 1px solid rgb(244, 244, 244);
+}
+}
+#medio{
+	background-size: contain;
+}
+/*CONTACT US*/
+#photocustomer{
+	border-radius: 50%;
+	width: 40%;
+}
+#contactus{
+	background-image: url("../img/background/contactus.jpg");
+	background-size: 100% 100%;
+}
+input, textarea{
+	width: 100%;
+	background-color: black;
+	opacity: .5;
+}
+/*FOLLOW US*/
+#followus a{
+	color: black;
+}
+/*FOOTER*/
+footer{
+	background-color: #222222;
+}
